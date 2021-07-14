@@ -39,9 +39,9 @@ h1{
     height: 438px;
 }
 /* ----------------------blogs---------------- */
-.pulak{
-    position:absolute;
-    
+.container{
+    margin-top: 70px;
+    justify-content: center;
 }
 .box{
     width: 330px;
@@ -51,10 +51,8 @@ h1{
     width: 100%;
 }
 .blogs{
-    margin-top: 70px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-column-gap:5px;
     grid-row-gap: 20px;
 }
 .player{
