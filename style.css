@@ -39,7 +39,8 @@ h1{
     height: 438px;
 }
 /* ----------------------blogs---------------- */
-.container{
+.container2{
+    display: flex;
     margin-top: 70px;
     justify-content: center;
 }
@@ -60,4 +61,18 @@ h1{
     margin-right:2%;
     margin-left: 6%;
     padding: 2.5%;
+}
+/*------------ middle work------------- */
+.banner-image2 img{
+    width: 550px ;
+    height:450px ;
+}
+.box2{
+    width :50%;
+}
+.margin-up{
+    margin-top: 40px ;
+}
+.text2{
+    margin-right: 60px ;
 }
