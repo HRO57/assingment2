@@ -54,13 +54,13 @@ h1{
 .blogs{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-row-gap: 70px;
+    grid-row-gap: 100px;
 }
 .player{
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
     margin-right:3%;
     margin-left: 6%;
-    padding: 2.5%;
+    padding: 5.5%;
 }
 /*------------ middle work------------- */
 .banner-image2 img{
